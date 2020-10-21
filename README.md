@@ -1,5 +1,11 @@
 # vue-weather
 
+
+![Screenshot](a.png)
+
+![Screenshot](b.png)
+
+
 ## Project setup
 ```
 npm install
