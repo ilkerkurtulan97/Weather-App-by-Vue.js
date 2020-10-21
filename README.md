@@ -1,5 +1,8 @@
 # vue-weather
 
+Weather app built with Vue.js framework. While building this project, openweather Rest API is used in order to get information about locations via json.
+Simple Vue.js architecture is used alongside with css search bar animations and hover background effects.
+
 
 ![Screenshot](/photos/a.png)
 
