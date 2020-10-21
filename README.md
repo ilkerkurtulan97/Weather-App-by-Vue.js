@@ -3,7 +3,15 @@
 
 ![Screenshot](/photos/a.png)
 
-![Screenshot](b.png)
+![Screenshot](/photos/b.png)
+
+![Screenshot](/photos/c.png)
+
+![Screenshot](/photos/d.png)
+
+![Screenshot](/photos/e.png)
+
+![Screenshot](/photos/f.png)
 
 
 ## Project setup
