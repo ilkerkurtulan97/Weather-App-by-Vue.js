@@ -1,7 +1,7 @@
 # vue-weather
 
 
-![Screenshot](a.png)
+![Screenshot](/photos/a.png)
 
 ![Screenshot](b.png)
 
